@@ -10,10 +10,7 @@
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": {
-    "name": "Andreas Saplacan",
-    "email": "andisaplacan@gmail.com"
-  },
+  "author": "Andreas Saplacan",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
